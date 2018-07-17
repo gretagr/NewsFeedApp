@@ -16,7 +16,7 @@ Project goal - use [Jasmine](https://jasmine.github.io/) to write a number of te
 
 * Application can be viewed online here: [News Feed App](https://gretagr.github.io/NewsFeedApp/).
 * You can also clone/download this repository and run app by opening index.html file in your browser.
-* Tests are located in [jasmine/spec/feedreader.js](https://github.com/gretagr/NewsFeedApp/blob/master/jasmine/spac/feedreader.js) file.
+* Tests are located in [jasmine/spec/feedreader.js](https://github.com/gretagr/NewsFeedApp/blob/master/jasmine/spec/feedreader.js) file.
 
 ## Dependencies
 
